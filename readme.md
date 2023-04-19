@@ -1,4 +1,4 @@
-#Research on the prediction method of protein translational modification’s antibodies-like based on artificial intelligence.
+#Research on the prediction method of protein translational modification’s antibodies-like based on artificial intelligence.#
 code/NGS
 ===========
 The code in the NGS folder is the code used for NGS data processing.
